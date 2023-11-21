@@ -1,0 +1,28 @@
+body {
+    width: 1600px;
+}
+.header1 {
+    background-color: burlywood;
+    height: 80px;
+    width: 1600px;
+    text-align: center;
+}
+.aside1 {
+    background-color: cadetblue;
+    width: 25vw;
+    float: right;
+}
+.section1 {
+    background-color: chocolate;
+    height: 30%;
+    width: 75%;
+}
+.footer1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: aqua;
+    height: 100px;
+    width: 1600px;
+    text-align: center;
+}
